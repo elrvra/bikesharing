@@ -3,7 +3,7 @@
 ## Overview
 
 ### Background
-Last summer you and your friend Kate, took the trip of a lifetime, NYC for two full weeks, exploring historical landmarks like central park, the statue of liberty, and the empire state building. It was a magical experience and as you flew home together, you looked through your vacation photos and had a realization. One of the key ingredients to the magic was an unlikely suspect, Citi bike. You and Kate had biked everywhere, which allowed you to really get to know the city and interact with the people who live there, and who are using bikes for their commutes. A gem of an idea starts to form in your mind, what if you could start a similar bike share business in your hometown of Damion, Iowa. You and Kate start brainstorming, and a few weeks later she calls you with some incredible news. She has a potential angel investor who might be interested in providing seed funding to explore a bike share program in Damion. This is an exciting prospect, but you know you have to think realistically. Mechanics of making this business work might be quite different in Damion than in the city. Your first step is to figure out exactly how the bike share business works in NYC. From there, you will create a proposal on how this will work in Damion.
+Last summer you and your friend Kate, took the trip of a lifetime, NYC for two full weeks, exploring historical landmarks like central park, the statue of liberty, and the empire state building. It was a magical experience and as you flew home together, you looked through your vacation photos and had a realization. One of the key ingredients to the magic was an unlikely suspect, Citi bike. You and Kate had biked everywhere, which allowed you to really get to know the city and interact with the people who live there, and who are using bikes for their commutes. A gem of an idea starts to form in your mind, what if you could start a similar bike share business in your hometown of Des Moines, Iowa. You and Kate start brainstorming, and a few weeks later she calls you with some incredible news. She has a potential angel investor who might be interested in providing seed funding to explore a bike share program in Des Moines. This is an exciting prospect, but you know you have to think realistically. Mechanics of making this business work might be quite different in Damion than in the city. Your first step is to figure out exactly how the bike share business works in NYC. From there, you will create a proposal on how this will work in Des Moines.
 
 ### Purpose
 Now that we've gotten a good idea of how to create our story, there is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
@@ -50,11 +50,18 @@ b) results
 
 ![alt tag](https://github.com/elrvra/bikesharing/blob/main/Resources/Deliverable3-pic7.png)
 
+c) summary
+
+In conclusion, using NYC as a model to determing the success in Des Moines, Iowa - we can see that:
+- The male gender are the dominant users of CitiBikes
+- There are specific times of day where these bikes are used more often
+- The majority of trips are less than an hour and are concentrated in the mid- to lower- parts of NYC
+- When looking at the locations more specifically using two additonal charts (as shown below) for Top Starting Trip Locations and Trip Ending Trip Locations, we can see these occurs happen in the more densley populated areas in an around the Metro North area and going to other parts of town in the mid- to lower- parts of NYC that have higher amounts of businesses
+
+
 ![alt tag](https://github.com/elrvra/bikesharing/blob/main/Resources/Deliverable3-pic8.png)
 
 ![alt tag](https://github.com/elrvra/bikesharing/blob/main/Resources/Deliverable3-pic9.png)
-
-c) summary
 
 
 
