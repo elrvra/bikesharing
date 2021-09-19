@@ -22,11 +22,11 @@ Deliverable 1: Change Trip Duration to a Datetime Format
 ![alt tag](https://github.com/elrvra/bikesharing/blob/main/Resources/Deliverable1-pic1.png)
 ![alt tag](https://github.com/elrvra/bikesharing/blob/main/Resources/Deliverable1-pic2.png)
 
-Deliverable 2: Create Visualizations for the Trip Analysis
+### Deliverable 2: Create Visualizations for the Trip Analysis
 
 - Charts 1-5 as required in this deliverable can be viewed below in Deliverable 3
 
-Deliverable 3: Create a Story and Report for the Final Presentation
+### Deliverable 3: Create a Story and Report for the Final Presentation
 
 a) overview/purpose of analysis
 
