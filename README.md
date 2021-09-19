@@ -32,7 +32,7 @@ a) overview/purpose of analysis
 
 - This challenege was designed to showcase the Tableau skills we learned and to create an analysis on bike usage in New York City for August 2019 in order to make assumptions on how a potential bike share app would work in Des Moines, Iowa. Visualizations were created and put into a Tableau story to be presented to investors.
 
-b) results (7 charts)
+b) results (includes: link to Tableau dashboard, 7 charts and stories)
 
 - LINK [link to dashboard](https://public.tableau.com/app/profile/elena.rivera4127/viz/TableauBikesharingStory/FinalPresentationStory?publish=yes)
 
